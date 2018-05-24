@@ -1,2 +1,5 @@
 # Computer-Animation
-Course code
+* Course code  
+* tutorial
+* 
+
